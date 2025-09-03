@@ -1,3 +1,6 @@
+inno setup license
+https://jrsoftware.org/files/is/license.txt
+
 Please create compile inno setup
 
 対象ゲーム
