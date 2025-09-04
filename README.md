@@ -1,4 +1,4 @@
-# JP：本スクリプトはAliceSoft様の一部ゲームを補完するものでございます。
+# JP：本スクリプトはAliceSoft様の一部ゲームを補完するものです
 inno setup license
 https://jrsoftware.org/files/is/license.txt
 
