@@ -1,8 +1,8 @@
 [Setup]
-AppName=MyGame
+AppName=MyGame ; ショートカットとかの名前
 AppVersion=1.0
 DefaultDirName={pf}\MyGame
-DefaultGroupName=MyGame
+DefaultGroupName=MyGame ; スタートメニュー
 OutputBaseFilename=Setup
 Compression=none         ; CDからの直接実行に最適
 SolidCompression=no
@@ -31,3 +31,4 @@ Name: "{group}\アンインストール MyGame"; Filename: "{uninstallexe}"
 
 [Run]
 Filename: "{app}\MyGame.exe"; Description: "MyGame を起動"; Flags: nowait postinstall skipifsilent
+
