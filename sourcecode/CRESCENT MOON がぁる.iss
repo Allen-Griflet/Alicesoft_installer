@@ -31,5 +31,6 @@ Name: "{userdesktop}\CRESCENT MOON がぁる"; Filename: "{app}\crescent\adv.exe
 Name: "{group}\アンインストール CRESCENT MOON がぁる"; Filename: "{uninstallexe}"
 
 [Run]
-Filename: "{app}\crescent\adv.exe"; Description: "CRESCENT MOON がぁる を起動"; Flags: nowait postinstall skipifsilent
+Filename: "{app}\crescent\adv.exe"; Description: "CRESCENT MOON がぁるを起動"; Flags: nowait postinstall skipifsilent
+
 
