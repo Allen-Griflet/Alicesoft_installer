@@ -10,7 +10,7 @@ LicenseFile=dps\配布フリー宣言（アリスソフト）.txt
 AppCopyright=\dps\readme.txt
 UninstallDisplayIcon={app}\dps\adv.exe
 DisableWelcomePage=no
-PrivilegesRequired=lowest
+PrivilegesRequired=admin
 
 [Languages]
 Name: "japanese"; MessagesFile: "compiler:Languages\Japanese.isl"
@@ -32,3 +32,4 @@ Name: "{group}\アンインストール D.P.S"; Filename: "{uninstallexe}"
 
 [Run]
 Filename: "{app}\dps\adv.exe"; Description: "D.P.S を起動"; Flags: nowait postinstall skipifsilent
+
