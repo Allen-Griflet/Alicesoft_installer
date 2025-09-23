@@ -28,10 +28,10 @@ Source: "家庭教師はステキなお仕事\*"; DestDir: "{app}\家庭教師�
 Source: "信長の淫謀\*"; DestDir: "{app}\信長の淫謀"; Flags: ignoreversion recursesubdirs createallsubdirs
 
 [Icons]
-Name: "{group}\Fahren Fliegen"; Filename: "{app}\Fahren Fliegen\system3.exe"
-Name: "{userdesktop}\Fahren Fliegen"; Filename: "{app}\Fahren Fliegen\system3.exe"; Tasks: desktopicon
-Name: "{group}\家庭教師はステキなお仕事"; Filename: "{app}\家庭教師はステキなお仕事\system3.exe"
-Name: "{userdesktop}\家庭教師はステキなお仕事"; Filename: "{app}\家庭教師はステキなお仕事\system3.exe"; Tasks: desktopicon
-Name: "{group}\信長の淫謀"; Filename: "{app}\信長の淫謀\system3.exe"
-Name: "{userdesktop}\信長の淫謀"; Filename: "{app}\信長の淫謀\system3.exe"; Tasks: desktopicon
+Name: "{group}\Fahren Fliegen"; Filename: "{app}\Fahren Fliegen\adv.exe"
+Name: "{userdesktop}\Fahren Fliegen"; Filename: "{app}\Fahren Fliegen\adv.exe"; Tasks: desktopicon
+Name: "{group}\家庭教師はステキなお仕事"; Filename: "{app}\家庭教師はステキなお仕事\adv.exe"
+Name: "{userdesktop}\家庭教師はステキなお仕事"; Filename: "{app}\家庭教師はステキなお仕事\adv.exe"; Tasks: desktopicon
+Name: "{group}\信長の淫謀"; Filename: "{app}\信長の淫謀\adv.exe"
+Name: "{userdesktop}\信長の淫謀"; Filename: "{app}\信長の淫謀\adv.exe"; Tasks: desktopicon
 Name: "{group}\アンインストール DPS SG"; Filename: "{uninstallexe}"
