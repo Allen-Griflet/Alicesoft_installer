@@ -10,7 +10,7 @@ LicenseFile=lv\配布フリー宣言（アリスソフト）.txt
 AppCopyright=\lv\readme.txt
 UninstallDisplayIcon={app}\lv\adv.exe
 DisableWelcomePage=no
-PrivilegesRequired=lowest
+PrivilegesRequired=admin
 
 [Languages]
 Name: "japanese"; MessagesFile: "compiler:Languages\Japanese.isl"
