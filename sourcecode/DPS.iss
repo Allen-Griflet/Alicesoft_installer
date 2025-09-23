@@ -31,5 +31,6 @@ Name: "{userdesktop}\D.P.S"; Filename: "{app}\dps\adv.exe"; Tasks: desktopicon
 Name: "{group}\アンインストール D.P.S"; Filename: "{uninstallexe}"
 
 [Run]
-Filename: "{app}\dps\adv.exe"; Description: "D.P.S を起動"; Flags: nowait postinstall skipifsilent
+Filename: "{app}\dps\adv.exe"; Description: "D.P.Sを起動"; Flags: nowait postinstall skipifsilent
+
 
