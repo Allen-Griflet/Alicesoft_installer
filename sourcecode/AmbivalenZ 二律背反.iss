@@ -10,7 +10,7 @@ LicenseFile=配布フリー宣言（アリスソフト）.txt
 AppCopyright=readme.txt
 UninstallDisplayIcon={app}\gamedata\system3.exe
 DisableWelcomePage=no
-PrivilegesRequired=lowest
+PrivilegesRequired=admin
 
 [Languages]
 Name: "japanese"; MessagesFile: "compiler:Languages\Japanese.isl"
