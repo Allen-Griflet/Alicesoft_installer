@@ -3,6 +3,8 @@ Please create compile inno setup<br/>
 
 対象ゲーム<br/>
 ・Aliceの館3<br/>
+・AmbivalenZ 二律背反<br/>
+・CRESCENT MOON がぁる<br/>
 ・<br/>
 
 Alicesoft freegame<br/>
