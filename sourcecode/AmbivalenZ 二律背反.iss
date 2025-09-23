@@ -31,4 +31,4 @@ Name: "{userdesktop}\AmbivalenZ 二律背反"; Filename: "{app}\gamedata\system3
 Name: "{group}\アンインストール AmbivalenZ 二律背反"; Filename: "{uninstallexe}"
 
 [Run]
-Filename: "{app}\gamedata\system3.exe"; Description: "AmbivalenZ 二律背反 を起動"; Flags: nowait postinstall skipifsilent
+Filename: "{app}\gamedata\system3.exe"; Description: "AmbivalenZ 二律背反を起動"; Flags: nowait postinstall skipifsilent
