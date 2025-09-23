@@ -23,13 +23,15 @@ Name: "bonus"; Description: "追加パック（HDテクスチャなど）"; Type
 Name: "desktopicon"; Description: "デスクトップにショートカットを作成"; GroupDescription: "追加オプション:"; Flags: checkedonce
 
 [Files]
-Source: "gamedata\*"; DestDir: "{app}\gamedata"; Flags: ignoreversion recursesubdirs createallsubdirs
+Source: "Fahren Fliegen\*"; DestDir: "{app}\Fahren Fliegen"; Flags: ignoreversion recursesubdirs createallsubdirs
+Source: "家庭教師はステキなお仕事\*"; DestDir: "{app}\家庭教師はステキなお仕事"; Flags: ignoreversion recursesubdirs createallsubdirs
+Source: "信長の淫謀\*"; DestDir: "{app}\信長の淫謀"; Flags: ignoreversion recursesubdirs createallsubdirs
 
 [Icons]
-Name: "{group}\Fahren Fliegen"; Filename: "{app}\gamedata\system3.exe"
-Name: "{userdesktop}\Fahren Fliegen"; Filename: "{app}\gamedata\system3.exe"; Tasks: desktopicon
-Name: "{group}\家庭教師はステキなお仕事"; Filename: "{app}\gamedata\system3.exe"
-Name: "{userdesktop}\家庭教師はステキなお仕事"; Filename: "{app}\gamedata\system3.exe"; Tasks: desktopicon
-Name: "{group}\信長の淫謀"; Filename: "{app}\gamedata\system3.exe"
-Name: "{userdesktop}\信長の淫謀"; Filename: "{app}\gamedata\system3.exe"; Tasks: desktopicon
+Name: "{group}\Fahren Fliegen"; Filename: "{app}\Fahren Fliegen\system3.exe"
+Name: "{userdesktop}\Fahren Fliegen"; Filename: "{app}\Fahren Fliegen\system3.exe"; Tasks: desktopicon
+Name: "{group}\家庭教師はステキなお仕事"; Filename: "{app}\家庭教師はステキなお仕事\system3.exe"
+Name: "{userdesktop}\家庭教師はステキなお仕事"; Filename: "{app}\家庭教師はステキなお仕事\system3.exe"; Tasks: desktopicon
+Name: "{group}\信長の淫謀"; Filename: "{app}\信長の淫謀\system3.exe"
+Name: "{userdesktop}\信長の淫謀"; Filename: "{app}\信長の淫謀\system3.exe"; Tasks: desktopicon
 Name: "{group}\アンインストール DPS SG"; Filename: "{uninstallexe}"
