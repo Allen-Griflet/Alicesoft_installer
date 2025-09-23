@@ -31,4 +31,4 @@ Name: "{userdesktop}\あぶないてんぐ伝説"; Filename: "{app}\tengu\adv.ex
 Name: "{group}\アンインストール あぶないてんぐ伝説"; Filename: "{uninstallexe}"
 
 [Run]
-Filename: "{app}\tengu\adv.exe"; Description: "あぶないてんぐ伝説 を起動"; Flags: nowait postinstall skipifsilent
+Filename: "{app}\tengu\adv.exe"; Description: "あぶないてんぐ伝説を起動"; Flags: nowait postinstall skipifsilent
