@@ -1,7 +1,7 @@
 [Setup]
-AppName=D.P.S SG
+AppName=DPS SG set2
 AppVersion=1.0
-DefaultDirName={pf}\AliceSoft\D.P.S SG
+DefaultDirName={pf}\AliceSoft\DPS SG set2
 DefaultGroupName=アリスソフト
 OutputBaseFilename=Setup
 Compression=none
@@ -23,15 +23,15 @@ Name: "bonus"; Description: "追加パック（HDテクスチャなど）"; Type
 Name: "desktopicon"; Description: "デスクトップにショートカットを作成"; GroupDescription: "追加オプション:"; Flags: checkedonce
 
 [Files]
-Source: "Fahren Fliegen\*"; DestDir: "{app}\Fahren Fliegen"; Flags: ignoreversion recursesubdirs createallsubdirs
-Source: "家庭教師はステキなお仕事\*"; DestDir: "{app}\家庭教師はステキなお仕事"; Flags: ignoreversion recursesubdirs createallsubdirs
-Source: "信長の淫謀\*"; DestDir: "{app}\信長の淫謀"; Flags: ignoreversion recursesubdirs createallsubdirs
+Source: "ANTIQUE HOUSE\*"; DestDir: "{app}\ANTIQUE HOUSE"; Flags: ignoreversion recursesubdirs createallsubdirs
+Source: "いけない内科検診再び\*"; DestDir: "{app}\いけない内科検診再び"; Flags: ignoreversion recursesubdirs createallsubdirs
+Source: "朱い夜\*"; DestDir: "{app}\朱い夜"; Flags: ignoreversion recursesubdirs createallsubdirs
 
 [Icons]
-Name: "{group}\Fahren Fliegen"; Filename: "{app}\Fahren Fliegen\system3.exe"
-Name: "{userdesktop}\Fahren Fliegen"; Filename: "{app}\Fahren Fliegen\system3.exe"; Tasks: desktopicon
-Name: "{group}\家庭教師はステキなお仕事"; Filename: "{app}\家庭教師はステキなお仕事\system3.exe"
-Name: "{userdesktop}\家庭教師はステキなお仕事"; Filename: "{app}\家庭教師はステキなお仕事\system3.exe"; Tasks: desktopicon
-Name: "{group}\信長の淫謀"; Filename: "{app}\信長の淫謀\system3.exe"
-Name: "{userdesktop}\信長の淫謀"; Filename: "{app}\信長の淫謀\system3.exe"; Tasks: desktopicon
-Name: "{group}\アンインストール DPS SG"; Filename: "{uninstallexe}"
+Name: "{group}\ANTIQUE HOUSE"; Filename: "{app}\ANTIQUE HOUSE\adv.exe"
+Name: "{userdesktop}\ANTIQUE HOUSE"; Filename: "{app}\ANTIQUE HOUSE\adv.exe"; Tasks: desktopicon
+Name: "{group}\いけない内科検診再び"; Filename: "{app}\いけない内科検診再び\adv.exe"
+Name: "{userdesktop}\いけない内科検診再び"; Filename: "{app}\いけない内科検診再び\adv.exe"; Tasks: desktopicon
+Name: "{group}\朱い夜"; Filename: "{app}\朱い夜\adv.exe"
+Name: "{userdesktop}\朱い夜"; Filename: "{app}\朱い夜\adv.exe"; Tasks: desktopicon
+Name: "{group}\アンインストール DPS SG set2"; Filename: "{uninstallexe}"
