@@ -29,6 +29,7 @@ Source: "gamedata\*"; DestDir: "{app}\gamedata"; Flags: ignoreversion recursesub
 Name: "{group}\ぷろ すちゅーでんとG"; Filename: "{app}\gamedata\system3.exe"
 Name: "{group}\ぷろ すちゅーでんとGおまけ"; Filename: "{app}\gamedata\prog_omake.exe"
 Name: "{userdesktop}\ぷろ すちゅーでんとG"; Filename: "{app}\gamedata\system3.exe"; Tasks: desktopicon
+Name: "{userdesktop}\ぷろ すちゅーでんとGおまけ"; Filename: "{app}\gamedata\prog_omake.exe"; Tasks: desktopicon
 Name: "{group}\アンインストール ぷろ すちゅーでんとG"; Filename: "{uninstallexe}"
 
 [Run]
