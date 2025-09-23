@@ -31,4 +31,4 @@ Name: "{userdesktop}\ALICEの館3"; Filename: "{app}\gamedata\system3.exe"; Task
 Name: "{group}\アンインストール ALICEの館3"; Filename: "{uninstallexe}"
 
 [Run]
-Filename: "{app}\gamedata\system3.exe"; Description: "ALICEの館3 を起動"; Flags: nowait postinstall skipifsilent
+Filename: "{app}\gamedata\system3.exe"; Description: "ALICEの館3を起動"; Flags: nowait postinstall skipifsilent
