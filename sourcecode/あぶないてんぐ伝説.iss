@@ -10,7 +10,7 @@ LicenseFile=tengu\配布フリー宣言（アリスソフト）.txt
 AppCopyright=\tengu\readme.txt
 UninstallDisplayIcon={app}\tengu\adv.exe
 DisableWelcomePage=no
-PrivilegesRequired=lowest
+PrivilegesRequired=admin
 
 [Languages]
 Name: "japanese"; MessagesFile: "compiler:Languages\Japanese.isl"
