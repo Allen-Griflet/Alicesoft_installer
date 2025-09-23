@@ -31,4 +31,4 @@ Name: "{userdesktop}\Little PRINCESS"; Filename: "{app}\lp\lp32.exe"; Tasks: des
 Name: "{group}\アンインストール Little PRINCESS"; Filename: "{uninstallexe}"
 
 [Run]
-Filename: "{app}\lp\lp32.exe"; Description: "Little PRINCESS を起動"; Flags: nowait postinstall skipifsilent
+Filename: "{app}\lp\lp32.exe"; Description: "Little PRINCESSを起動"; Flags: nowait postinstall skipifsilent
