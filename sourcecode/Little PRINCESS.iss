@@ -10,7 +10,7 @@ LicenseFile=intr\配布フリー宣言（アリスソフト）.txt
 AppCopyright=\lp\readme.txt
 UninstallDisplayIcon={app}\lp\lp32.exe
 DisableWelcomePage=no
-PrivilegesRequired=lowest
+PrivilegesRequired=admin
 
 [Languages]
 Name: "japanese"; MessagesFile: "compiler:Languages\Japanese.isl"
