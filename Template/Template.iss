@@ -9,7 +9,7 @@ SolidCompression=no
 LicenseFile=eula.txt
 UninstallDisplayIcon={app}gamedata\MyGame.exe
 DisableWelcomePage=no
-PrivilegesRequired=lowest
+PrivilegesRequired=admin
 
 [Languages]
 Name: "japanese"; MessagesFile: "compiler:Languages\Japanese.isl"
@@ -31,4 +31,5 @@ Name: "{group}\アンインストール MyGame"; Filename: "{uninstallexe}"
 
 [Run]
 Filename: "{app}\MyGame.exe"; Description: "MyGame を起動"; Flags: nowait postinstall skipifsilent
+
 
