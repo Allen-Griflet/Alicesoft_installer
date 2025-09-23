@@ -10,7 +10,7 @@ LicenseFile=crescent\配布フリー宣言（アリスソフト）.txt
 AppCopyright=\crescent\readme.txt
 UninstallDisplayIcon={app}\crescent\adv.exe
 DisableWelcomePage=no
-PrivilegesRequired=lowest
+PrivilegesRequired=admin
 
 [Languages]
 Name: "japanese"; MessagesFile: "compiler:Languages\Japanese.isl"
@@ -32,3 +32,4 @@ Name: "{group}\アンインストール CRESCENT MOON がぁる"; Filename: "{un
 
 [Run]
 Filename: "{app}\crescent\adv.exe"; Description: "CRESCENT MOON がぁる を起動"; Flags: nowait postinstall skipifsilent
+
