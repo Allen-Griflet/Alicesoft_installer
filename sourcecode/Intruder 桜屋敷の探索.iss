@@ -10,8 +10,7 @@ LicenseFile=intr\配布フリー宣言（アリスソフト）.txt
 AppCopyright=\intr\readme.txt
 UninstallDisplayIcon={app}\intr\adv.exe
 DisableWelcomePage=no
-PrivilegesRequired=lowest
-
+PrivilegesRequired=admin
 [Languages]
 Name: "japanese"; MessagesFile: "compiler:Languages\Japanese.isl"
 
@@ -32,4 +31,5 @@ Name: "{group}\アンインストール Intruder 桜屋敷の探索"; Filename: 
 
 [Run]
 Filename: "{app}\intr\adv.exe"; Description: "Intruder 桜屋敷の探索 を起動"; Flags: nowait postinstall skipifsilent
+
 
