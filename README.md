@@ -17,7 +17,7 @@
 ・Super D.P.S<br/>
 
 #### 使用方法<br/>
-対象ゲームのディレクトリ名からSetup.exeをダウンロードしてください。
+対象ゲームのディレクトリ名からダウンロードしてください。
 
 Alicesoft freegame<br/>
 http://retropc.net/alice/menu.html<br/>
