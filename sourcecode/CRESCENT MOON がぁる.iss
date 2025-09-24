@@ -44,4 +44,3 @@ Name: "{group}\アンインストール CRESCENT MOON がぁる"; Filename: "{un
 
 [Run]
 Filename: "{app}\crescent\adv.exe"; Description: "CRESCENT MOON がぁるを起動"; Flags: nowait postinstall skipifsilent
-
