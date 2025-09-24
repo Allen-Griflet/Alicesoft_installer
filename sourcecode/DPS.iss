@@ -1,3 +1,13 @@
+;========================================================
+;  Program Name : Setup.exe
+;  File         : DPS.iss
+;  Author       : Allen.Griflet(https://github.com/Allen-Griflet)
+;  Created      : 2025-09-24
+;  Last Update  : 2025-09-24
+;  Description  : Installer script for DPS
+;  License      : license.txt
+;========================================================
+
 [Setup]
 AppName=DPS
 AppVersion=1.0
@@ -6,8 +16,8 @@ DefaultGroupName=アリスソフト
 OutputBaseFilename=Setup
 Compression=none
 SolidCompression=no
-InfoBeforeFile=dps\readme.txt
 LicenseFile=license.txt
+InfoBeforeFile=dps\readme.txt
 InfoAfterFile=dps\配布フリー宣言（アリスソフト）.txt
 AppCopyright=\dps\readme.txt
 UninstallDisplayIcon={app}\dps\adv.exe
