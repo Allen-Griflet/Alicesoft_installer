@@ -10,7 +10,7 @@ Alicesoft Installer License
    ソフトウェアのすべての複製または重要な部分に記載する必要があります。
 5. 本インストーラーはAliceSoft様のゲームを補助するものです。
    本インストーラーのクレームはAliceSoft様になさらないでください。
-6. AliceSoft様のゲーム及びソフトウェアに関しましては、AliceSoft様のライセンスや配布事項を確認してください。
+6. AliceSoft様のゲーム及びソフトウェアに関しましては、AliceSoft様のライセンスや配布事項["配布フリー宣言"](https://www.alicesoft.com/about/)を確認してください。
 7. 最後にAliceSoft様への敬意をお願いします。
 
 【免責事項】
