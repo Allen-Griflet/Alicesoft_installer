@@ -32,8 +32,3 @@ Name: "{group}\アンインストール Intruder 桜屋敷の探索"; Filename: 
 
 [Run]
 Filename: "{app}\intr\adv.exe"; Description: "Intruder 桜屋敷の探索を起動"; Flags: nowait postinstall skipifsilent
-
-
-
-
-
