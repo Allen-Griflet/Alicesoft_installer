@@ -1,4 +1,4 @@
-Alicesoft installer License
+Alicesoft Installer License
 ==================
 本インストーラーの使用に関して、以下の条件で無償で利用することを許可します。
 
