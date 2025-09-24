@@ -5,7 +5,7 @@
 ;  Created      : 2025-09-24
 ;  Last Update  : 2025-09-24
 ;  Description  : Installer script for CRESCENT MOON がぁる
-;  License      : 
+;  License      : license.txt
 ;========================================================
 
 [Setup]
@@ -44,3 +44,4 @@ Name: "{group}\アンインストール CRESCENT MOON がぁる"; Filename: "{un
 
 [Run]
 Filename: "{app}\crescent\adv.exe"; Description: "CRESCENT MOON がぁるを起動"; Flags: nowait postinstall skipifsilent
+
