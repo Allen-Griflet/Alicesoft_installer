@@ -1,3 +1,13 @@
+;========================================================
+;  Program Name : Setup.exe
+;  File         : Little PRINCESS.iss
+;  Author       : Allen.Griflet(https://github.com/Allen-Griflet)
+;  Created      : 2025-09-24
+;  Last Update  : 2025-09-24
+;  Description  : Installer script for Little PRINCESS
+;  License      : license.txt
+;========================================================
+
 [Setup]
 AppName=Little PRINCESS
 AppVersion=1.0
@@ -6,7 +16,9 @@ DefaultGroupName=アリスソフト
 OutputBaseFilename=Setup
 Compression=none
 SolidCompression=no
-LicenseFile=intr\配布フリー宣言（アリスソフト）.txt
+LicenseFile=license.txt
+InfoBeforeFile=lp\readme.txt
+InfoAfterFile=lp\配布フリー宣言（アリスソフト）.txt
 AppCopyright=\lp\readme.txt
 UninstallDisplayIcon={app}\lp\lp32.exe
 DisableWelcomePage=no
