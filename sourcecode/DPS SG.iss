@@ -1,5 +1,5 @@
 [Setup]
-AppName=D.P.S SG
+AppName=DPS SG
 AppVersion=1.0
 DefaultDirName={pf}\AliceSoft\DPS SG
 DefaultGroupName=アリスソフト
