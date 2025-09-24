@@ -16,7 +16,8 @@ DefaultGroupName=アリスソフト
 OutputBaseFilename=Setup
 Compression=none
 SolidCompression=no
-LicenseFile=
+InfoBeforeFile=crescent\readme.txt
+LicenseFile=license.txt
 InfoAfterFile=crescent\配布フリー宣言（アリスソフト）.txt
 AppCopyright=\crescent\readme.txt
 UninstallDisplayIcon={app}\crescent\adv.exe
@@ -43,5 +44,3 @@ Name: "{group}\アンインストール CRESCENT MOON がぁる"; Filename: "{un
 
 [Run]
 Filename: "{app}\crescent\adv.exe"; Description: "CRESCENT MOON がぁるを起動"; Flags: nowait postinstall skipifsilent
-
-
