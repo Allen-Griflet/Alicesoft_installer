@@ -32,6 +32,3 @@ Name: "{group}\アンインストール D.P.S"; Filename: "{uninstallexe}"
 
 [Run]
 Filename: "{app}\dps\adv.exe"; Description: "D.P.Sを起動"; Flags: nowait postinstall skipifsilent
-
-
-
