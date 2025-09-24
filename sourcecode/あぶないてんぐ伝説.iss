@@ -1,7 +1,7 @@
 [Setup]
 AppName=あぶないてんぐ伝説
 AppVersion=1.0
-DefaultDirName={pf}\AliceSoft\tengu
+DefaultDirName={pf}\AliceSoft\あぶないてんぐ伝説
 DefaultGroupName=アリスソフト
 OutputBaseFilename=Setup
 Compression=none
