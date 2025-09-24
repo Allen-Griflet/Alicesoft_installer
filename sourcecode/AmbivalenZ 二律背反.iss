@@ -1,3 +1,13 @@
+;========================================================
+;  Program Name : Setup.exe
+;  File         : AmbivalenZ 二律背反.iss
+;  Author       : Allen.Griflet(https://github.com/Allen-Griflet)
+;  Created      : 2025-09-24
+;  Last Update  : 2025-09-24
+;  Description  : Installer script for ALICEの館3
+;  License      : 
+;========================================================
+
 [Setup]
 AppName=AmbivalenZ 二律背反
 AppVersion=1.0
