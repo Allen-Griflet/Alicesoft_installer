@@ -1,7 +1,7 @@
 [Setup]
 AppName=D.P.S
 AppVersion=1.0
-DefaultDirName={pf}\AliceSoft\dps
+DefaultDirName={pf}\AliceSoft\DPS
 DefaultGroupName=アリスソフト
 OutputBaseFilename=Setup
 Compression=none
@@ -32,5 +32,6 @@ Name: "{group}\アンインストール D.P.S"; Filename: "{uninstallexe}"
 
 [Run]
 Filename: "{app}\dps\adv.exe"; Description: "D.P.Sを起動"; Flags: nowait postinstall skipifsilent
+
 
 
