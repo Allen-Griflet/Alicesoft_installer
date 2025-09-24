@@ -10,7 +10,7 @@
 
 [Setup]
 AppName=夢幻泡影
-AppVersion=1.0
+AppVersion=1.00
 DefaultDirName={pf}\AliceSoft\夢幻泡影
 DefaultGroupName=アリスソフト
 OutputBaseFilename=Setup
