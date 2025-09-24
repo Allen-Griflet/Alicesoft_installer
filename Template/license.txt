@@ -23,7 +23,7 @@
 本インストーラーを実行し「同意」ボタンを押した時点で、
 上記条件に同意したものとみなされます。
 
-Copyright (c) 2025 [Allen.Griflet](https://github.com/Allen-Griflet)
+Copyright (C) 2025 [Allen.Griflet](https://github.com/Allen-Griflet)
 
 [Inno Setup License]
 
@@ -54,4 +54,5 @@ applications, and to alter and redistribute it, provided that the following cond
 
 
 Jordan Russell
+
 jr-2020 AT [jrsoftware.org](https://jrsoftware.org/)
