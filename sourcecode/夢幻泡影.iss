@@ -35,12 +35,12 @@ Name: "bonus"; Description: "追加パック（HDテクスチャなど）"; Type
 Name: "desktopicon"; Description: "デスクトップにショートカットを作成"; GroupDescription: "追加オプション:"; Flags: checkedonce
 
 [Files]
-Source: "mugen\gamedata\*"; DestDir: "{app}\gamedata"; Flags: ignoreversion recursesubdirs createallsubdirs
+Source: "mugen\gamedata\*"; DestDir: "{app}\mugen\gamedata"; Flags: ignoreversion recursesubdirs createallsubdirs
 
 [Icons]
-Name: "{group}\夢幻泡影"; Filename: "{app}\gamedata\system3.exe"
-Name: "{userdesktop}\夢幻泡影"; Filename: "{app}\gamedata\system3.exe"; Tasks: desktopicon
+Name: "{group}\夢幻泡影"; Filename: "{app}\mugen\gamedata\system3.exe"
+Name: "{userdesktop}\夢幻泡影"; Filename: "{app}\mugen\gamedata\system3.exe"; Tasks: desktopicon
 Name: "{group}\アンインストール 夢幻泡影"; Filename: "{uninstallexe}"
 
 [Run]
-Filename: "{app}\gamedata\system3.exe"; Description: "夢幻泡影を起動"; Flags: nowait postinstall skipifsilent
+Filename: "{app}\mugen\gamedata\system3.exe"; Description: "夢幻泡影を起動"; Flags: nowait postinstall skipifsilent
