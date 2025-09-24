@@ -1,7 +1,7 @@
 # JP：本インストーラーはAliceSoft様の一部ゲームのインストールを補助するものです<br/>
 
 対象ゲーム<br/>
-・Aliceの館3<br/>
+・[Aliceの館3](https://github.com/Allen-Griflet/Alicesoft_installer/blob/master/ALICE%E3%81%AE%E9%A4%A83/Setup.exe)<br/>
 ・AmbivalenZ 二律背反<br/>
 ・CRESCENT MOON がぁる<br/>
 ・Little PRINCESS<br/>
