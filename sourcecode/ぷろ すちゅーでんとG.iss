@@ -1,3 +1,13 @@
+;========================================================
+;  Program Name : Setup.exe
+;  File         : ALICEの館3.iss
+;  Author       : Allen.Griflet(https://github.com/Allen-Griflet)
+;  Created      : 2025-09-24
+;  Last Update  : 2025-09-24
+;  Description  : Installer script for ALICEの館3
+;  License      : license.txt
+;========================================================
+
 [Setup]
 AppName=ぷろ すちゅーでんとG
 AppVersion=1.0
@@ -6,7 +16,9 @@ DefaultGroupName=ぷろ すちゅーでんとG
 OutputBaseFilename=Setup
 Compression=none
 SolidCompression=no
-LicenseFile=配布フリー宣言（アリスソフト）.txt
+LicenseFile=license.txt
+InfoBeforeFile=readme.txt
+InfoAfterFile=配布フリー宣言（アリスソフト）.txt
 AppCopyright=readme.txt
 UninstallDisplayIcon={app}\gamedata\system3.exe
 DisableWelcomePage=no
