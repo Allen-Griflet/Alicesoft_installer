@@ -22,7 +22,7 @@ Alicesoft Installer License
 本インストーラーを実行し「同意」ボタンを押した時点で、
 上記条件に同意したものとみなされます。
 
-Copyright (c) 2025 [Allen.Griflet](https://github.com/Allen-Griflet)
+Copyright (C) 2025 [Allen.Griflet](https://github.com/Allen-Griflet)
 
 [Inno Setup License](https://jrsoftware.org/files/is/license.txt)
 ==================
