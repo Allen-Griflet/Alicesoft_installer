@@ -1,3 +1,13 @@
+;========================================================
+;  Program Name : Setup.exe
+;  File         : Template.iss
+;  Author       : Allen.Griflet(https://github.com/Allen-Griflet)
+;  Created      : 2025-09-24
+;  Last Update  : 2025-09-24
+;  Description  : Installer script for Template
+;  License      : license.txt
+;========================================================
+
 [Setup]
 AppName=MyGame ; ショートカットとかの名前
 AppVersion=1.0
