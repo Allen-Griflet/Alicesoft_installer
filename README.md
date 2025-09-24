@@ -16,5 +16,7 @@
 ・D.P.S SG set3<br/>
 ・Super D.P.S<br/>
 
+対象ゲームのディレクトリ名からSetup.exeをダウンロードしてください。
+
 Alicesoft freegame<br/>
 http://retropc.net/alice/menu.html<br/>
