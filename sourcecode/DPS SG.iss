@@ -1,7 +1,7 @@
 [Setup]
 AppName=D.P.S SG
 AppVersion=1.0
-DefaultDirName={pf}\AliceSoft\D.P.S SG
+DefaultDirName={pf}\AliceSoft\DPS SG
 DefaultGroupName=アリスソフト
 OutputBaseFilename=Setup
 Compression=none
