@@ -1,3 +1,13 @@
+;========================================================
+;  Program Name : Setup.exe
+;  File         : あぶないてんぐ伝説.iss
+;  Author       : Allen.Griflet(https://github.com/Allen-Griflet)
+;  Created      : 2025-09-24
+;  Last Update  : 2025-09-24
+;  Description  : Installer script for あぶないてんぐ伝説
+;  License      : license.txt
+;========================================================
+
 [Setup]
 AppName=あぶないてんぐ伝説
 AppVersion=1.0
@@ -6,7 +16,9 @@ DefaultGroupName=アリスソフト
 OutputBaseFilename=Setup
 Compression=none
 SolidCompression=no
-LicenseFile=tengu\配布フリー宣言（アリスソフト）.txt
+LicenseFile=license.txt
+InfoBeforeFile=tengu\readme.txt
+InfoAfterFile=tengu\配布フリー宣言（アリスソフト）.txt
 AppCopyright=\tengu\readme.txt
 UninstallDisplayIcon={app}\tengu\adv.exe
 DisableWelcomePage=no
