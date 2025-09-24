@@ -1,3 +1,13 @@
+;========================================================
+;  Program Name : Setup.exe
+;  File         : ALICEの館3.iss
+;  Author       : Allen.Griflet(https://github.com/Allen-Griflet)
+;  Created      : 2025-09-24
+;  Last Update  : 2025-09-24
+;  Description  : Installer script for ALICEの館3
+;  License      : 
+;========================================================
+
 [Setup]
 AppName=ALICEの館3
 AppVersion=1.0
