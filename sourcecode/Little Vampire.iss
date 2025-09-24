@@ -1,7 +1,7 @@
 [Setup]
 AppName=Little Vampire
 AppVersion=1.0
-DefaultDirName={pf}\AliceSoft\lv
+DefaultDirName={pf}\AliceSoft\Little Vampire
 DefaultGroupName=アリスソフト
 OutputBaseFilename=Setup
 Compression=none
