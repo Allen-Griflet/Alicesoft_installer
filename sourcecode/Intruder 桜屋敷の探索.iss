@@ -1,3 +1,13 @@
+;========================================================
+;  Program Name : Setup.exe
+;  File         : Intruder 桜屋敷の探索.iss
+;  Author       : Allen.Griflet(https://github.com/Allen-Griflet)
+;  Created      : 2025-09-24
+;  Last Update  : 2025-09-24
+;  Description  : Installer script for Intruder 桜屋敷の探索
+;  License      : license.txt
+;========================================================
+
 [Setup]
 AppName=Intruder 桜屋敷の探索
 AppVersion=1.0
@@ -6,7 +16,9 @@ DefaultGroupName=アリスソフト
 OutputBaseFilename=Setup
 Compression=none
 SolidCompression=no
-LicenseFile=intr\配布フリー宣言（アリスソフト）.txt
+LicenseFile=license.txt
+InfoBeforeFile=intr\readme.txt
+InfoAfterFile=intr\配布フリー宣言（アリスソフト）.txt
 AppCopyright=\intr\readme.txt
 UninstallDisplayIcon={app}\intr\adv.exe
 DisableWelcomePage=no
