@@ -35,7 +35,7 @@ Name: "bonus"; Description: "追加パック（HDテクスチャなど）"; Type
 Name: "desktopicon"; Description: "デスクトップにショートカットを作成"; GroupDescription: "追加オプション:"; Flags: checkedonce
 
 [Files]
-Source: "mugen\gamedata\*"; DestDir: "{app}\mugen\gamedata"; Flags: ignoreversion recursesubdirs createallsubdirs
+Source: "mugen\*"; DestDir: "{app}\mugen"; Flags: ignoreversion recursesubdirs createallsubdirs
 
 [Icons]
 Name: "{group}\夢幻泡影"; Filename: "{app}\mugen\gamedata\system3.exe"
