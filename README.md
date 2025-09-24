@@ -16,6 +16,7 @@
 ・D.P.S SG set3<br/>
 ・Super D.P.S<br/>
 
+使用方法
 対象ゲームのディレクトリ名からSetup.exeをダウンロードしてください。
 
 Alicesoft freegame<br/>
