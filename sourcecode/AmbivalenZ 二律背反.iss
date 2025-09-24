@@ -5,7 +5,7 @@
 ;  Created      : 2025-09-24
 ;  Last Update  : 2025-09-24
 ;  Description  : Installer script for AmbivalenZ 二律背反
-;  License      : 
+;  License      : license.txt
 ;========================================================
 
 [Setup]
@@ -16,7 +16,9 @@ DefaultGroupName=アリスソフト
 OutputBaseFilename=Setup
 Compression=none
 SolidCompression=no
-LicenseFile=配布フリー宣言（アリスソフト）.txt
+LicenseFile=license.txt
+InfoBeforeFile=readme.txt
+InfoAfterFile=配布フリー宣言（アリスソフト）.txt
 AppCopyright=readme.txt
 UninstallDisplayIcon={app}\gamedata\system3.exe
 DisableWelcomePage=no
