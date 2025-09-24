@@ -1,3 +1,13 @@
+;========================================================
+;  Program Name : Setup.exe
+;  File         : CRESCENT MOON がぁる.iss
+;  Author       : Allen.Griflet(https://github.com/Allen-Griflet)
+;  Created      : 2025-09-24
+;  Last Update  : 2025-09-24
+;  Description  : Installer script for CRESCENT MOON がぁる
+;  License      : 
+;========================================================
+
 [Setup]
 AppName=CRESCENT MOON がぁる
 AppVersion=1.0
@@ -32,3 +42,4 @@ Name: "{group}\アンインストール CRESCENT MOON がぁる"; Filename: "{un
 
 [Run]
 Filename: "{app}\crescent\adv.exe"; Description: "CRESCENT MOON がぁるを起動"; Flags: nowait postinstall skipifsilent
+
