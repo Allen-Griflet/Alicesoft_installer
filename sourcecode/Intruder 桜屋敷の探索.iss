@@ -1,7 +1,7 @@
 [Setup]
 AppName=Intruder 桜屋敷の探索
 AppVersion=1.0
-DefaultDirName={pf}\AliceSoft\intr
+DefaultDirName={pf}\AliceSoft\Intruder 桜屋敷の探索
 DefaultGroupName=アリスソフト
 OutputBaseFilename=Setup
 Compression=none
@@ -31,6 +31,7 @@ Name: "{group}\アンインストール Intruder 桜屋敷の探索"; Filename: 
 
 [Run]
 Filename: "{app}\intr\adv.exe"; Description: "Intruder 桜屋敷の探索を起動"; Flags: nowait postinstall skipifsilent
+
 
 
 
