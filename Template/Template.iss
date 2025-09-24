@@ -31,5 +31,3 @@ Name: "{group}\アンインストール MyGame"; Filename: "{uninstallexe}"
 
 [Run]
 Filename: "{app}\MyGame.exe"; Description: "MyGame を起動"; Flags: nowait postinstall skipifsilent
-
-
