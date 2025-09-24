@@ -1,10 +1,10 @@
 ;========================================================
 ;  Program Name : Setup.exe
-;  File         : ALICEの館3.iss
+;  File         : ぷろ すちゅーでんとG.iss
 ;  Author       : Allen.Griflet(https://github.com/Allen-Griflet)
 ;  Created      : 2025-09-24
 ;  Last Update  : 2025-09-24
-;  Description  : Installer script for ALICEの館3
+;  Description  : Installer script for ぷろ すちゅーでんとG
 ;  License      : license.txt
 ;========================================================
 
