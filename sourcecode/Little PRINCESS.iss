@@ -1,7 +1,7 @@
 [Setup]
 AppName=Little PRINCESS
 AppVersion=1.0
-DefaultDirName={pf}\AliceSoft\lp
+DefaultDirName={pf}\AliceSoft\Little PRINCESS
 DefaultGroupName=アリスソフト
 OutputBaseFilename=Setup
 Compression=none
