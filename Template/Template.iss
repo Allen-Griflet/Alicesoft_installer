@@ -2,8 +2,8 @@
 ;  Program Name : Setup.exe
 ;  File         : Template.iss
 ;  Author       : Allen.Griflet(https://github.com/Allen-Griflet)
-;  Created      : 2025-09-24
-;  Last Update  : 2025-09-24
+;  Created      : YYYY-MM-DD
+;  Last Update  : YYYY-MM-DD
 ;  Description  : Installer script for Template
 ;  License      : license.txt
 ;========================================================
