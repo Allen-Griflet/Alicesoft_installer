@@ -17,9 +17,9 @@ OutputBaseFilename=Setup
 Compression=none
 SolidCompression=no
 LicenseFile=license.txt
-InfoBeforeFile=readme.txt
-InfoAfterFile=配布フリー宣言（アリスソフト）.txt
-AppCopyright=readme.txt
+InfoBeforeFile=mugen\readme.txt
+InfoAfterFile=mugen\配布フリー宣言（アリスソフト）.txt
+AppCopyright=mugen\readme.txt
 UninstallDisplayIcon={app}\gamedata\system3.exe
 DisableWelcomePage=no
 PrivilegesRequired=admin
@@ -35,7 +35,7 @@ Name: "bonus"; Description: "追加パック（HDテクスチャなど）"; Type
 Name: "desktopicon"; Description: "デスクトップにショートカットを作成"; GroupDescription: "追加オプション:"; Flags: checkedonce
 
 [Files]
-Source: "gamedata\*"; DestDir: "{app}\gamedata"; Flags: ignoreversion recursesubdirs createallsubdirs
+Source: "mugen\gamedata\*"; DestDir: "{app}\gamedata"; Flags: ignoreversion recursesubdirs createallsubdirs
 
 [Icons]
 Name: "{group}\夢幻泡影"; Filename: "{app}\gamedata\system3.exe"
