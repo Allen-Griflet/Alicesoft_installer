@@ -17,8 +17,8 @@ OutputBaseFilename=Setup
 Compression=none
 SolidCompression=no
 LicenseFile=license.txt
-InfoBeforeFile=readme.txt
-InfoAfterFile=配布フリー宣言（アリスソフト）.txt
+InfoBeforeFile=dps_sg1\readme.txt
+InfoAfterFile=dps_sg1\配布フリー宣言（アリスソフト）.txt
 AppCopyright=readme.txt
 UninstallDisplayIcon=no
 DisableWelcomePage=no
@@ -35,15 +35,13 @@ Name: "bonus"; Description: "追加パック（HDテクスチャなど）"; Type
 Name: "desktopicon"; Description: "デスクトップにショートカットを作成"; GroupDescription: "追加オプション:"; Flags: checkedonce
 
 [Files]
-Source: "Fahren Fliegen\*"; DestDir: "{app}\Fahren Fliegen"; Flags: ignoreversion recursesubdirs createallsubdirs
-Source: "家庭教師はステキなお仕事\*"; DestDir: "{app}\家庭教師はステキなお仕事"; Flags: ignoreversion recursesubdirs createallsubdirs
-Source: "信長の淫謀\*"; DestDir: "{app}\信長の淫謀"; Flags: ignoreversion recursesubdirs createallsubdirs
+Source: "dps_sg1\*"; DestDir: "{app}\dps_sg1"; Flags: ignoreversion recursesubdirs createallsubdirs
 
 [Icons]
-Name: "{group}\Fahren Fliegen"; Filename: "{app}\Fahren Fliegen\adv.exe"
-Name: "{userdesktop}\Fahren Fliegen"; Filename: "{app}\Fahren Fliegen\adv.exe"; Tasks: desktopicon
-Name: "{group}\家庭教師はステキなお仕事"; Filename: "{app}\家庭教師はステキなお仕事\adv.exe"
-Name: "{userdesktop}\家庭教師はステキなお仕事"; Filename: "{app}\家庭教師はステキなお仕事\adv.exe"; Tasks: desktopicon
-Name: "{group}\信長の淫謀"; Filename: "{app}\信長の淫謀\adv.exe"
-Name: "{userdesktop}\信長の淫謀"; Filename: "{app}\信長の淫謀\adv.exe"; Tasks: desktopicon
+Name: "{group}\Fahren Fliegen"; Filename: "{app}\dps_sg1\Fahren Fliegen\adv.exe"
+Name: "{userdesktop}\Fahren Fliegen"; Filename: "{app}\dps_sg1\Fahren Fliegen\adv.exe"; Tasks: desktopicon
+Name: "{group}\家庭教師はステキなお仕事"; Filename: "{app}\dps_sg1\家庭教師はステキなお仕事\adv.exe"
+Name: "{userdesktop}\家庭教師はステキなお仕事"; Filename: "{app}\dps_sg1\家庭教師はステキなお仕事\adv.exe"; Tasks: desktopicon
+Name: "{group}\信長の淫謀"; Filename: "{app}\dps_sg1\信長の淫謀\adv.exe"
+Name: "{userdesktop}\信長の淫謀"; Filename: "{app}\dps_sg1\信長の淫謀\adv.exe"; Tasks: desktopicon
 Name: "{group}\アンインストール DPS SG"; Filename: "{uninstallexe}"
