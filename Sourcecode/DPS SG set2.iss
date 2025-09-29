@@ -17,8 +17,8 @@ OutputBaseFilename=Setup
 Compression=none
 SolidCompression=no
 LicenseFile=license.txt
-InfoBeforeFile=readme.txt
-InfoAfterFile=配布フリー宣言（アリスソフト）.txt
+InfoBeforeFile=dps_sg2\readme.txt
+InfoAfterFile=dps_sg2\配布フリー宣言（アリスソフト）.txt
 AppCopyright=readme.txt
 UninstallDisplayIcon=no
 DisableWelcomePage=no
@@ -35,15 +35,13 @@ Name: "bonus"; Description: "追加パック（HDテクスチャなど）"; Type
 Name: "desktopicon"; Description: "デスクトップにショートカットを作成"; GroupDescription: "追加オプション:"; Flags: checkedonce
 
 [Files]
-Source: "ANTIQUE HOUSE\*"; DestDir: "{app}\ANTIQUE HOUSE"; Flags: ignoreversion recursesubdirs createallsubdirs
-Source: "いけない内科検診再び\*"; DestDir: "{app}\いけない内科検診再び"; Flags: ignoreversion recursesubdirs createallsubdirs
-Source: "朱い夜\*"; DestDir: "{app}\朱い夜"; Flags: ignoreversion recursesubdirs createallsubdirs
+Source: "dps_sg2\*"; DestDir: "{app}\dps_sg2"; Flags: ignoreversion recursesubdirs createallsubdirs
 
 [Icons]
-Name: "{group}\ANTIQUE HOUSE"; Filename: "{app}\ANTIQUE HOUSE\adv.exe"
-Name: "{userdesktop}\ANTIQUE HOUSE"; Filename: "{app}\ANTIQUE HOUSE\adv.exe"; Tasks: desktopicon
-Name: "{group}\いけない内科検診再び"; Filename: "{app}\いけない内科検診再び\adv.exe"
-Name: "{userdesktop}\いけない内科検診再び"; Filename: "{app}\いけない内科検診再び\adv.exe"; Tasks: desktopicon
-Name: "{group}\朱い夜"; Filename: "{app}\朱い夜\adv.exe"
-Name: "{userdesktop}\朱い夜"; Filename: "{app}\朱い夜\adv.exe"; Tasks: desktopicon
+Name: "{group}\ANTIQUE HOUSE"; Filename: "{app}\dps_sg2\ANTIQUE HOUSE\adv.exe"
+Name: "{userdesktop}\ANTIQUE HOUSE"; Filename: "{app}\dps_sg2\ANTIQUE HOUSE\adv.exe"; Tasks: desktopicon
+Name: "{group}\いけない内科検診再び"; Filename: "{app}\dps_sg2\いけない内科検診再び\adv.exe"
+Name: "{userdesktop}\いけない内科検診再び"; Filename: "{app}\dps_sg2\いけない内科検診再び\adv.exe"; Tasks: desktopicon
+Name: "{group}\朱い夜"; Filename: "{app}\dps_sg2\朱い夜\adv.exe"
+Name: "{userdesktop}\朱い夜"; Filename: "{app}\dps_sg2\朱い夜\adv.exe"; Tasks: desktopicon
 Name: "{group}\アンインストール DPS SG set2"; Filename: "{uninstallexe}"
