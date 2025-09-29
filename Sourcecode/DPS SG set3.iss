@@ -35,15 +35,13 @@ Name: "bonus"; Description: "追加パック（HDテクスチャなど）"; Type
 Name: "desktopicon"; Description: "デスクトップにショートカットを作成"; GroupDescription: "追加オプション:"; Flags: checkedonce
 
 [Files]
-Source: "Rabbit P4P\*"; DestDir: "{app}\Rabbit P4P"; Flags: ignoreversion recursesubdirs createallsubdirs
-Source: "しんこんさんものがたり\*"; DestDir: "{app}\しんこんさんものがたり"; Flags: ignoreversion recursesubdirs createallsubdirs
-Source: "卒業\*"; DestDir: "{app}\卒業"; Flags: ignoreversion recursesubdirs createallsubdirs
+Source: "dps_sg3*"; DestDir: "{app}\dps_sg3\Rabbit P4P"; Flags: ignoreversion recursesubdirs createallsubdirs
 
 [Icons]
-Name: "{group}\Rabbit P4P"; Filename: "{app}\ANTIQUE HOUSE\adv.exe"
-Name: "{userdesktop}\Rabbit P4P"; Filename: "{app}\Rabbit P4P\adv.exe"; Tasks: desktopicon
-Name: "{group}\しんこんさんものがたり"; Filename: "{app}\しんこんさんものがたり\adv.exe"
-Name: "{userdesktop}\しんこんさんものがたり"; Filename: "{app}\しんこんさんものがたり\adv.exe"; Tasks: desktopicon
-Name: "{group}\卒業"; Filename: "{app}\卒業\adv.exe"
-Name: "{userdesktop}\卒業"; Filename: "{app}\卒業\adv.exe"; Tasks: desktopicon
+Name: "{group}\Rabbit P4P"; Filename: "{app}\dps_sg3\ANTIQUE HOUSE\adv.exe"
+Name: "{userdesktop}\Rabbit P4P"; Filename: "{app}\dps_sg3\Rabbit P4P\adv.exe"; Tasks: desktopicon
+Name: "{group}\しんこんさんものがたり"; Filename: "{app}\dps_sg3\しんこんさんものがたり\adv.exe"
+Name: "{userdesktop}\しんこんさんものがたり"; Filename: "{app}\dps_sg3\しんこんさんものがたり\adv.exe"; Tasks: desktopicon
+Name: "{group}\卒業"; Filename: "{app}\dps_sg3\卒業\adv.exe"
+Name: "{userdesktop}\卒業"; Filename: "{app}\dps_sg3\卒業\adv.exe"; Tasks: desktopicon
 Name: "{group}\アンインストール DPS SG set3"; Filename: "{uninstallexe}"
