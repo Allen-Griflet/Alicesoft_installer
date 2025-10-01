@@ -10,7 +10,7 @@
 
 [Setup]
 AppName=Little Vampire
-AppVersion=1.0
+AppVersion=2.02
 DefaultDirName={pf}\AliceSoft\Little Vampire
 DefaultGroupName=アリスソフト
 OutputBaseFilename=Setup
