@@ -10,7 +10,7 @@
 
 [Setup]
 AppName=Super DPS
-AppVersion=1.0
+AppVersion=0
 DefaultDirName={pf}\AliceSoft\Super DPS
 DefaultGroupName=アリスソフト
 OutputBaseFilename=Setup
