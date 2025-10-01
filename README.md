@@ -13,7 +13,7 @@
 ・ぷろ すちゅーでんとG<br/>
 ・宇宙怪盗ファニーBee<br/>
 ・[夢幻泡影](https://github.com/Allen-Griflet/Alicesoft_installer/tree/master/%E5%A4%A2%E5%B9%BB%E6%B3%A1%E5%BD%B1)<br/>
-・[D.P.S](https://github.com/Allen-Griflet/Alicesoft_installer/blob/master/DPS/DPS.zip)<br/>
+・[D.P.S](https://github.com/Allen-Griflet/Alicesoft_installer/blob/master/Release/DPS/DPS.zip)<br/>
 ・D.P.S SG<br/>
 ・D.P.S SG set2<br/>
 ・D.P.S SG set3<br/>
