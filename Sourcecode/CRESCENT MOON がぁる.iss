@@ -10,7 +10,7 @@
 
 [Setup]
 AppName=CRESCENT MOON がぁる
-AppVersion=1.0
+AppVersion=1.05
 DefaultDirName={pf}\AliceSoft\CRESCENT MOON がぁる
 DefaultGroupName=アリスソフト
 OutputBaseFilename=Setup
@@ -44,3 +44,4 @@ Name: "{group}\アンインストール CRESCENT MOON がぁる"; Filename: "{un
 
 [Run]
 Filename: "{app}\crescent\adv.exe"; Description: "CRESCENT MOON がぁるを起動"; Flags: nowait postinstall skipifsilent
+
