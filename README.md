@@ -6,8 +6,8 @@
 ・[Aliceの館3](https://github.com/Allen-Griflet/Alicesoft_installer/blob/master/ALICE%E3%81%AE%E9%A4%A83/Setup.exe)<br/>
 ・[AmbivalenZ 二律背反](https://github.com/Allen-Griflet/Alicesoft_installer/blob/master/Intruder%20%E6%A1%9C%E5%B1%8B%E6%95%B7%E3%81%AE%E6%8E%A2%E7%B4%A2/Setup.exe)<br/>
 ・CRESCENT MOON がぁる<br/>
-・Little PRINCESS<br/>
-・Little Vampire<br/>
+・[Little PRINCESS](https://github.com/Allen-Griflet/Alicesoft_installer/blob/master/Release/Little%20PRINCESS/Little%20PRINCESS.zip)<br/>
+・[Little Vampire](https://github.com/Allen-Griflet/Alicesoft_installer/blob/master/Release/Little%20Vampire/Little%20Vampire.zip)<br/>
 ・あぶないてんぐ伝説<br/>
 ・あゆみちゃん物語<br/>
 ・ぷろ すちゅーでんとG<br/>
