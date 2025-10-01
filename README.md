@@ -14,10 +14,10 @@
 ・宇宙怪盗ファニーBee<br/>
 ・[夢幻泡影](https://github.com/Allen-Griflet/Alicesoft_installer/tree/master/%E5%A4%A2%E5%B9%BB%E6%B3%A1%E5%BD%B1)<br/>
 ・[D.P.S](https://github.com/Allen-Griflet/Alicesoft_installer/blob/master/Release/DPS/DPS.zip)<br/>
-・D.P.S SG<br/>
-・D.P.S SG set2<br/>
-・D.P.S SG set3<br/>
-・Super D.P.S<br/>
+・[D.P.S SG](https://github.com/Allen-Griflet/Alicesoft_installer/blob/master/Release/DPS%20SG/DPS%20SG.zip)<br/>
+・[D.P.S SG set2](https://github.com/Allen-Griflet/Alicesoft_installer/blob/master/Release/DPS%20SG%20set2/DPS%20SG%20set2.zip)<br/>
+・[D.P.S SG set3](https://github.com/Allen-Griflet/Alicesoft_installer/blob/master/Release/DPS%20SG%20set3/DPS%20SG%20set3.zip)<br/>
+・[Super D.P.S](https://github.com/Allen-Griflet/Alicesoft_installer/blob/master/Release/Super%20DPS/Super%20DPS.zip)<br/>
 
 #### 使用方法<br/>
 対象ゲームのディレクトリ名からダウンロードしてください。
