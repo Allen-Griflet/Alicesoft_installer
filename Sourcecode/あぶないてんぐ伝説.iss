@@ -10,7 +10,7 @@
 
 [Setup]
 AppName=あぶないてんぐ伝説
-AppVersion=1.0
+AppVersion=1.03
 DefaultDirName={pf}\AliceSoft\あぶないてんぐ伝説
 DefaultGroupName=アリスソフト
 OutputBaseFilename=Setup
