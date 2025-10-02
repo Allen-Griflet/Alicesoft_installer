@@ -9,6 +9,7 @@
 ・[Little PRINCESS](https://github.com/Allen-Griflet/Alicesoft_installer/blob/master/Release/Little%20PRINCESS/Little%20PRINCESS.zip)<br/>
 ・[Little Vampire](https://github.com/Allen-Griflet/Alicesoft_installer/blob/master/Release/Little%20Vampire/Little%20Vampire.zip)<br/>
 ・[あぶないてんぐ伝説](https://github.com/Allen-Griflet/Alicesoft_installer/blob/master/Release/%E3%81%82%E3%81%B6%E3%81%AA%E3%81%84%E3%81%A6%E3%82%93%E3%81%90%E4%BC%9D%E8%AA%AC/%E3%81%82%E3%81%B6%E3%81%AA%E3%81%84%E3%81%A6%E3%82%93%E3%81%90%E4%BC%9D%E8%AA%AC.zip)<br/>
+・[Intruder 桜屋敷の探索]()<br/>
 ・あゆみちゃん物語<br/>
 ・ぷろ すちゅーでんとG<br/>
 ・宇宙怪盗ファニーBee<br/>
