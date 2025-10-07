@@ -21,8 +21,8 @@
 ・[Super D.P.S](https://github.com/Allen-Griflet/Alicesoft_installer/blob/master/Release/Super%20DPS/Super%20DPS.zip)<br/>
 
 #### 使用方法<br/>
-対象ゲームのディレクトリ名からダウンロードしてください。<br/>
-Zipファイルを解凍してください。<br/>
+ReadMe記載の対象ゲームのディレクトリ名からリンクを踏んでダウンロードしてください。<br/>
+ダウンロードしたzipファイルを解凍してください。<br/>
 各ゲーム名と一致するフォルダ位置に合わせてください。<br/>
 Setup.exeを起動してください。<br/>
 
