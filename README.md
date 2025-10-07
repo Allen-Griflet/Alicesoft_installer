@@ -22,6 +22,8 @@
 
 #### 使用方法<br/>
 対象ゲームのディレクトリ名からダウンロードしてください。
+各下ゲーム名と一致するフォルダ位置と合わせてください。
+Setup.exeを起動してください。
 
 Alicesoft freegame<br/>
 http://retropc.net/alice/menu.html<br/>
