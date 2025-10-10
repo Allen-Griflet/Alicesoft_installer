@@ -17,10 +17,10 @@ OutputBaseFilename=Setup
 Compression=none
 SolidCompression=no
 LicenseFile=license.txt
-InfoBeforeFile=readme.txt
-InfoAfterFile=配布フリー宣言（アリスソフト）.txt
-AppCopyright=readme.txt
-UninstallDisplayIcon={app}\gamedata\system3.exe
+InfoBeforeFile=yakata3_cd\readme.txt
+InfoAfterFile=yakata3_cd\配布フリー宣言（アリスソフト）.txt
+AppCopyright=yakata3_cd\readme.txt
+UninstallDisplayIcon={app}\yakata3\gamedata\system3.exe
 DisableWelcomePage=no
 PrivilegesRequired=admin
 
@@ -35,11 +35,11 @@ Name: "bonus"; Description: "追加パック（HDテクスチャなど）"; Type
 Name: "desktopicon"; Description: "デスクトップにショートカットを作成"; GroupDescription: "追加オプション:"; Flags: checkedonce
 
 [Files]
-Source: "gamedata\*"; DestDir: "{app}\gamedata"; Flags: ignoreversion recursesubdirs createallsubdirs
+Source: "yakata3_cd\*"; DestDir: "{app}\yakata3"; Flags: ignoreversion recursesubdirs createallsubdirs
 
 [Icons]
-Name: "{group}\ALICEの館3"; Filename: "{app}\gamedata\system3.exe"
-Name: "{userdesktop}\ALICEの館3"; Filename: "{app}\gamedata\system3.exe"; Tasks: desktopicon
+Name: "{group}\ALICEの館3"; Filename: "{app}\yakata3\gamedata\system3.exe"
+Name: "{userdesktop}\ALICEの館3"; Filename: "{app}\yakata3\gamedata\system3.exe"; Tasks: desktopicon
 Name: "{group}\アンインストール ALICEの館3"; Filename: "{uninstallexe}"
 
 [Run]
