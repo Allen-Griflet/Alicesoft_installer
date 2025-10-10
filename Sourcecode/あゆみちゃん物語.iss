@@ -17,10 +17,10 @@ OutputBaseFilename=Setup
 Compression=none
 SolidCompression=no
 LicenseFile=license.txt
-InfoBeforeFile=readme.txt
-InfoAfterFile=配布フリー宣言（アリスソフト）.txt
-AppCopyright=readme.txt
-UninstallDisplayIcon={app}\gamedata\system3.exe
+InfoBeforeFile=ayumi_cd\readme.txt
+InfoAfterFile=ayumi_cd\配布フリー宣言（アリスソフト）.txt
+AppCopyright=ayumi_cd\readme.txt
+UninstallDisplayIcon={app}\ayumi_cd\gamedata\system3.exe
 DisableWelcomePage=no
 PrivilegesRequired=admin
 
@@ -35,12 +35,12 @@ Name: "bonus"; Description: "追加パック（HDテクスチャなど）"; Type
 Name: "desktopicon"; Description: "デスクトップにショートカットを作成"; GroupDescription: "追加オプション:"; Flags: checkedonce
 
 [Files]
-Source: "gamedata\*"; DestDir: "{app}\gamedata"; Flags: ignoreversion recursesubdirs createallsubdirs
+Source: "ayumi_cd\*"; DestDir: "{app}\ayumi\gamedata"; Flags: ignoreversion recursesubdirs createallsubdirs
 
 [Icons]
-Name: "{group}\あゆみちゃん物語"; Filename: "{app}\gamedata\system3.exe"
-Name: "{userdesktop}\あゆみちゃん物語"; Filename: "{app}\gamedata\system3.exe"; Tasks: desktopicon
+Name: "{group}\あゆみちゃん物語"; Filename: "{app}\ayumi\gamedata\system3.exe"
+Name: "{userdesktop}\あゆみちゃん物語"; Filename: "{app}\ayumi\gamedata\system3.exe"; Tasks: desktopicon
 Name: "{group}\アンインストール あゆみちゃん物語"; Filename: "{uninstallexe}"
 
 [Run]
-Filename: "{app}\gamedata\system3.exe"; Description: "あゆみちゃん物語を起動"; Flags: nowait postinstall skipifsilent
+Filename: "{app}\ayumi\gamedata\system3.exe"; Description: "あゆみちゃん物語を起動"; Flags: nowait postinstall skipifsilent
