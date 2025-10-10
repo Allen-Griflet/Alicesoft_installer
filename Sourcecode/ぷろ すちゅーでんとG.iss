@@ -17,10 +17,10 @@ OutputBaseFilename=Setup
 Compression=none
 SolidCompression=no
 LicenseFile=license.txt
-InfoBeforeFile=readme.txt
-InfoAfterFile=配布フリー宣言（アリスソフト）.txt
-AppCopyright=readme.txt
-UninstallDisplayIcon={app}\gamedata\system3.exe
+InfoBeforeFile=prog_cd\readme.txt
+InfoAfterFile=prog_cd\配布フリー宣言（アリスソフト）.txt
+AppCopyright=prog_cd\readme.txt
+UninstallDisplayIcon={app}\prog\gamedata\system3.exe
 DisableWelcomePage=no
 PrivilegesRequired=admin
 
@@ -35,14 +35,14 @@ Name: "bonus"; Description: "追加パック（HDテクスチャなど）"; Type
 Name: "desktopicon"; Description: "デスクトップにショートカットを作成"; GroupDescription: "追加オプション:"; Flags: checkedonce
 
 [Files]
-Source: "gamedata\*"; DestDir: "{app}\gamedata"; Flags: ignoreversion recursesubdirs createallsubdirs
+Source: "prog_cd\*"; DestDir: "{app}\prog"; Flags: ignoreversion recursesubdirs createallsubdirs
 
 [Icons]
-Name: "{group}\ぷろ すちゅーでんとG"; Filename: "{app}\gamedata\system3.exe"
-Name: "{group}\ぷろ すちゅーでんとGおまけ"; Filename: "{app}\gamedata\prog_omake.exe"
-Name: "{userdesktop}\ぷろ すちゅーでんとG"; Filename: "{app}\gamedata\system3.exe"; Tasks: desktopicon
-Name: "{userdesktop}\ぷろ すちゅーでんとGおまけ"; Filename: "{app}\gamedata\prog_omake.exe"; Tasks: desktopicon
+Name: "{group}\ぷろ すちゅーでんとG"; Filename: "{app}\prog\gamedata\system3.exe"
+Name: "{group}\ぷろ すちゅーでんとGおまけ"; Filename: "{app}\prog\gamedata\prog_omake.exe"
+Name: "{userdesktop}\ぷろ すちゅーでんとG"; Filename: "{app}\prog\gamedata\system3.exe"; Tasks: desktopicon
+Name: "{userdesktop}\ぷろ すちゅーでんとGおまけ"; Filename: "{app}\prog\gamedata\prog_omake.exe"; Tasks: desktopicon
 Name: "{group}\アンインストール ぷろ すちゅーでんとG"; Filename: "{uninstallexe}"
 
 [Run]
-Filename: "{app}\gamedata\system3.exe"; Description: "ぷろ すちゅーでんとGを起動"; Flags: nowait postinstall skipifsilent
+Filename: "{app}\prog\gamedata\system3.exe"; Description: "ぷろ すちゅーでんとGを起動"; Flags: nowait postinstall skipifsilent
