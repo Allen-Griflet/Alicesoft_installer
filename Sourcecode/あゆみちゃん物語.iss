@@ -10,7 +10,7 @@
 
 [Setup]
 AppName=あゆみちゃん物語
-AppVersion=1.0
+AppVersion=1.11w
 DefaultDirName={pf}\AliceSoft\あゆみちゃん物語
 DefaultGroupName=アリスソフト
 OutputBaseFilename=Setup
