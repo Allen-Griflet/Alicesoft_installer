@@ -10,7 +10,7 @@
 
 [Setup]
 AppName=AmbivalenZ 二律背反
-AppVersion=1.0
+AppVersion=1.03W
 DefaultDirName={pf}\AliceSoft\AmbivalenZ 二律背反
 DefaultGroupName=アリスソフト
 OutputBaseFilename=Setup
