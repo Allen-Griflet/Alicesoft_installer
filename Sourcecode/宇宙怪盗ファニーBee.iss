@@ -17,9 +17,9 @@ OutputBaseFilename=Setup
 Compression=none
 SolidCompression=no
 LicenseFile=license.txt
-InfoBeforeFile=readme.txt
-InfoAfterFile=配布フリー宣言（アリスソフト）.txt
-AppCopyright=readme.txt
+InfoBeforeFile=funnyb_cd\readme.txt
+InfoAfterFile=funnyb_cd\配布フリー宣言（アリスソフト）.txt
+AppCopyright=funnyb_cd\readme.txt
 UninstallDisplayIcon={app}\gamedata\system3.exe
 DisableWelcomePage=no
 PrivilegesRequired=admin
@@ -35,12 +35,12 @@ Name: "bonus"; Description: "追加パック（HDテクスチャなど）"; Type
 Name: "desktopicon"; Description: "デスクトップにショートカットを作成"; GroupDescription: "追加オプション:"; Flags: checkedonce
 
 [Files]
-Source: "gamedata\*"; DestDir: "{app}\gamedata"; Flags: ignoreversion recursesubdirs createallsubdirs
+Source: "funnyb_cd\*"; DestDir: "{app}\funnyb"; Flags: ignoreversion recursesubdirs createallsubdirs
 
 [Icons]
-Name: "{group}\宇宙怪盗ファニーBee"; Filename: "{app}\gamedata\system3.exe"
-Name: "{userdesktop}\宇宙怪盗ファニーBee"; Filename: "{app}\gamedata\system3.exe"; Tasks: desktopicon
+Name: "{group}\宇宙怪盗ファニーBee"; Filename: "{app}\funnyb\gamedata\system3.exe"
+Name: "{userdesktop}\宇宙怪盗ファニーBee"; Filename: "{app}\funnyb\gamedata\system3.exe"; Tasks: desktopicon
 Name: "{group}\アンインストール 宇宙怪盗ファニーBee"; Filename: "{uninstallexe}"
 
 [Run]
-Filename: "{app}\gamedata\system3.exe"; Description: "宇宙怪盗ファニーBeeを起動"; Flags: nowait postinstall skipifsilent
+Filename: "{app}\funnyb\gamedata\system3.exe"; Description: "宇宙怪盗ファニーBeeを起動"; Flags: nowait postinstall skipifsilent
