@@ -17,9 +17,9 @@ OutputBaseFilename=Setup
 Compression=none
 SolidCompression=no
 LicenseFile=license.txt
-InfoBeforeFile=readme.txt
-InfoAfterFile=配布フリー宣言（アリスソフト）.txt
-AppCopyright=readme.txt
+InfoBeforeFile=ambi_cd\readme.txt
+InfoAfterFile=ambi_cd\配布フリー宣言（アリスソフト）.txt
+AppCopyright=ambi_cd\readme.txt
 UninstallDisplayIcon={app}\gamedata\system3.exe
 DisableWelcomePage=no
 PrivilegesRequired=admin
@@ -35,12 +35,12 @@ Name: "bonus"; Description: "追加パック（HDテクスチャなど）"; Type
 Name: "desktopicon"; Description: "デスクトップにショートカットを作成"; GroupDescription: "追加オプション:"; Flags: checkedonce
 
 [Files]
-Source: "gamedata\*"; DestDir: "{app}\gamedata"; Flags: ignoreversion recursesubdirs createallsubdirs
+Source: "ambi_cd\gamedata\*"; DestDir: "{app}\ambi\gamedata"; Flags: ignoreversion recursesubdirs createallsubdirs
 
 [Icons]
-Name: "{group}\AmbivalenZ 二律背反"; Filename: "{app}\gamedata\system3.exe"
-Name: "{userdesktop}\AmbivalenZ 二律背反"; Filename: "{app}\gamedata\system3.exe"; Tasks: desktopicon
+Name: "{group}\AmbivalenZ 二律背反"; Filename: "{app}\ambi\gamedata\system3.exe"
+Name: "{userdesktop}\AmbivalenZ 二律背反"; Filename: "{app}\ambi\gamedata\system3.exe"; Tasks: desktopicon
 Name: "{group}\アンインストール AmbivalenZ 二律背反"; Filename: "{uninstallexe}"
 
 [Run]
-Filename: "{app}\gamedata\system3.exe"; Description: "AmbivalenZ 二律背反を起動"; Flags: nowait postinstall skipifsilent
+Filename: "{app}\ambi\gamedata\system3.exe"; Description: "AmbivalenZ 二律背反を起動"; Flags: nowait postinstall skipifsilent
