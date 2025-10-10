@@ -27,8 +27,8 @@ ReadMe記載の対象ゲームのディレクトリ名からリンクを踏ん�
 Setup.exeを起動してください。<br/>
 
 #### 協力のお願い<br/>
-ALICEの館3とLittle PRINCESSのバージョンがわかりません。有識者の方がいたらご教授お願いします。
-都度Updateします。
+ALICEの館3とLittle PRINCESSのバージョンがわかりません。有識者の方がいたらご教授お願いします。<br/>
+都度Updateします。<br/>
 
 Alicesoft freegame<br/>
 http://retropc.net/alice/menu.html<br/>
