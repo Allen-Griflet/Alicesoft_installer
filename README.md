@@ -1,7 +1,5 @@
 ### 本インストーラーはAliceSoft様の一部ゲームのインストールを補助するものです<br/>
 
-### 準備中
-
 #### 対象ゲーム<br/>
 ・[ALICEの館3](https://github.com/Allen-Griflet/Alicesoft_installer/blob/master/Release/ALICE%E3%81%AE%E9%A4%A83/ALICE%E3%81%AE%E9%A4%A83.zip)<br/>
 ・[AmbivalenZ 二律背反](https://github.com/Allen-Griflet/Alicesoft_installer/blob/master/Release/AmbivalenZ%20%E4%BA%8C%E5%BE%8B%E8%83%8C%E5%8F%8D/AmbivalenZ%20%E4%BA%8C%E5%BE%8B%E8%83%8C%E5%8F%8D.zip)<br/>
