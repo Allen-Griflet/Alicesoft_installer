@@ -11,8 +11,8 @@
 ・[あぶないてんぐ伝説](https://github.com/Allen-Griflet/Alicesoft_installer/blob/master/Release/%E3%81%82%E3%81%B6%E3%81%AA%E3%81%84%E3%81%A6%E3%82%93%E3%81%90%E4%BC%9D%E8%AA%AC/%E3%81%82%E3%81%B6%E3%81%AA%E3%81%84%E3%81%A6%E3%82%93%E3%81%90%E4%BC%9D%E8%AA%AC.zip)<br/>
 ・[Intruder 桜屋敷の探索](https://github.com/Allen-Griflet/Alicesoft_installer/blob/master/Release/Intruder%20%E6%A1%9C%E5%B1%8B%E6%95%B7%E3%81%AE%E6%8E%A2%E7%B4%A2/Intruder%20%E6%A1%9C%E5%B1%8B%E6%95%B7%E3%81%AE%E6%8E%A2%E7%B4%A2.zip)<br/>
 ・あゆみちゃん物語<br/>
-・ぷろ すちゅーでんとG<br/>
-・宇宙怪盗ファニーBee<br/>
+・[ぷろ すちゅーでんとG](https://github.com/Allen-Griflet/Alicesoft_installer/blob/master/Release/%E3%81%B7%E3%82%8D%20%E3%81%99%E3%81%A1%E3%82%85%E3%83%BC%E3%81%A7%E3%82%93%E3%81%A8G/%E3%81%B7%E3%82%8D%20%E3%81%99%E3%81%A1%E3%82%85%E3%83%BC%E3%81%A7%E3%82%93%E3%81%A8G.zip)<br/>
+・[宇宙怪盗ファニーBee](https://github.com/Allen-Griflet/Alicesoft_installer/blob/master/Release/%E5%AE%87%E5%AE%99%E6%80%AA%E7%9B%97%E3%83%95%E3%82%A1%E3%83%8B%E3%83%BCBee/%E5%AE%87%E5%AE%99%E6%80%AA%E7%9B%97%E3%83%95%E3%82%A1%E3%83%8B%E3%83%BCBee.zip)<br/>
 ・[夢幻泡影](https://github.com/Allen-Griflet/Alicesoft_installer/blob/master/Release/%E5%A4%A2%E5%B9%BB%E6%B3%A1%E5%BD%B1/%E5%A4%A2%E5%B9%BB%E6%B3%A1%E5%BD%B1.zip)<br/>
 ・[D.P.S](https://github.com/Allen-Griflet/Alicesoft_installer/blob/master/Release/DPS/DPS.zip)<br/>
 ・[D.P.S SG](https://github.com/Allen-Griflet/Alicesoft_installer/blob/master/Release/DPS%20SG/DPS%20SG.zip)<br/>
