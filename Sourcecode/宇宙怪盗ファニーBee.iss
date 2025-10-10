@@ -10,7 +10,7 @@
 
 [Setup]
 AppName=宇宙怪盗ファニーBee
-AppVersion=1.0
+AppVersion=1.03Wb
 DefaultDirName={pf}\AliceSoft\宇宙怪盗ファニーBee
 DefaultGroupName=アリスソフト
 OutputBaseFilename=Setup
