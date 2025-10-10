@@ -20,7 +20,7 @@
 ・[D.P.S SG set3](https://github.com/Allen-Griflet/Alicesoft_installer/blob/master/Release/DPS%20SG%20set3/DPS%20SG%20set3.zip)<br/>
 ・[Super D.P.S](https://github.com/Allen-Griflet/Alicesoft_installer/blob/master/Release/Super%20DPS/Super%20DPS.zip)<br/>
 
-※ファイルが"_fd"と"_cd"がある場合は"_cd"準拠片方の場合は片方準拠で作成しています。<br/>
+※ファイルが"_fd"と"_cd"がある場合は"_cd"準拠。一方のみの場合は一方の仕様準拠で作成しています。<br/>
 
 #### 使用方法<br/>
 ReadMe記載の対象ゲームのディレクトリ名からリンクを踏んでダウンロードしてください。<br/>
