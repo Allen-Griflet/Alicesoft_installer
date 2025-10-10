@@ -3,7 +3,7 @@
 ### 準備中
 
 #### 対象ゲーム<br/>
-・[Aliceの館3](https://github.com/Allen-Griflet/Alicesoft_installer/blob/master/Release/ALICE%E3%81%AE%E9%A4%A83/ALICE%E3%81%AE%E9%A4%A83.zip)<br/>
+・[ALICEの館3](https://github.com/Allen-Griflet/Alicesoft_installer/blob/master/Release/ALICE%E3%81%AE%E9%A4%A83/ALICE%E3%81%AE%E9%A4%A83.zip)<br/>
 ・[AmbivalenZ 二律背反](https://github.com/Allen-Griflet/Alicesoft_installer/blob/master/Release/AmbivalenZ%20%E4%BA%8C%E5%BE%8B%E8%83%8C%E5%8F%8D/AmbivalenZ%20%E4%BA%8C%E5%BE%8B%E8%83%8C%E5%8F%8D.zip)<br/>
 ・[CRESCENT MOON がぁる](https://github.com/Allen-Griflet/Alicesoft_installer/blob/master/Release/CRESCENT%20MOON%20%E3%81%8C%E3%81%81%E3%82%8B/CRESCENT%20MOON%20%E3%81%8C%E3%81%81%E3%82%8B.zip)<br/>
 ・[Little PRINCESS](https://github.com/Allen-Griflet/Alicesoft_installer/blob/master/Release/Little%20PRINCESS/Little%20PRINCESS.zip)<br/>
