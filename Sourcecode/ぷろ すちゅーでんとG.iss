@@ -10,7 +10,7 @@
 
 [Setup]
 AppName=ぷろ すちゅーでんとG
-AppVersion=1.0
+AppVersion=1.03A
 DefaultDirName={pf}\AliceSoft\ぷろ すちゅーでんとG
 DefaultGroupName=ぷろ すちゅーでんとG
 OutputBaseFilename=Setup
